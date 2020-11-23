@@ -42,6 +42,6 @@ Open with overview of overall purpose of package and list of contents of assignm
 -	Learn basic functionality of Markdown.
 
 
-# Title code:
+# Title code: (remove parenthesis)
 
-# <h1><center><font color=steelblue>The</font> <font color=lime>n</font><font color=coral>u</font><font color=crimson>m</font><font color=blue>p</font><font color=purple>y</font>.<font color=orange>r</font><font color=aqua>a</font><font color=chartreuse>n</font><font color=fuchsia>d</font><font color=gold>o</font><font color=indigo>m</font> <font color=steelblue>package.</font><h1></center></h1>
+" # <h1><center><font color=steelblue>The</font> <font color=lime>n</font><font color=coral>u</font><font color=crimson>m</font><font color=blue>p</font><font color=purple>y</font>.<font color=orange>r</font><font color=aqua>a</font><font color=chartreuse>n</font><font color=fuchsia>d</font><font color=gold>o</font><font color=indigo>m</font> <font color=steelblue>package.</font><h1></center></h1> "
